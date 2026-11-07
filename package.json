@@ -53,6 +53,6 @@
     "open-graph-scraper": "^6.12.0",
     "sanitize-html": "^2.18.1",
     "unified": "^11.0.5",
-    "unist-util-visit": "^5.1.0"
+    "unist-util-visit": "^5.2.0"
   }
 }
